@@ -1,0 +1,15 @@
+C:\Cursos\CursoC#\MediaEscolar\bin\Debug\net6.0\MediaEscolar.exe
+C:\Cursos\CursoC#\MediaEscolar\bin\Debug\net6.0\MediaEscolar.deps.json
+C:\Cursos\CursoC#\MediaEscolar\bin\Debug\net6.0\MediaEscolar.runtimeconfig.json
+C:\Cursos\CursoC#\MediaEscolar\bin\Debug\net6.0\MediaEscolar.dll
+C:\Cursos\CursoC#\MediaEscolar\bin\Debug\net6.0\MediaEscolar.pdb
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.csproj.AssemblyReference.cache
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.AssemblyInfoInputs.cache
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.AssemblyInfo.cs
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.dll
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\refint\MediaEscolar.dll
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.pdb
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\MediaEscolar.genruntimeconfig.cache
+C:\Cursos\CursoC#\MediaEscolar\obj\Debug\net6.0\ref\MediaEscolar.dll
